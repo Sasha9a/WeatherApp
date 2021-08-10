@@ -2,7 +2,7 @@
 Веб приложение - прогнозирует погоду на 10 дней. Значения рандомные.
 
 Back-end часть написана на C# web-api aps.net core .net5.\
-Front-end часть написана на Vue.JS + Vuetify + Axios.\
+Front-end часть написана на Vue.JS + Vuetify + Axios.
 
 ![WeatherApp](WeatherApp.png)
 
