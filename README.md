@@ -11,3 +11,5 @@ Front-end часть написана на Vue.JS + Vuetify + Axios.
 1. Зайдите в папку frontend и запустите npm install.
 2. Перейдите в корневую папку и соберите проект.
 3. Запускайте приложение.
+
+[WeatherApp.png]
